@@ -14,7 +14,6 @@ Current Program.cs calls HashSetDuplicateSearch by default.
 Switch the commented lines to try other approaches.
 
 ## Project layout
-.
 
 ├── Program.cs    // input parsing, error handling, choose algorithm
 
